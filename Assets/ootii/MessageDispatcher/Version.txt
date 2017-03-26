@@ -1,0 +1,5 @@
+﻿Event System - Dispatcher
+Version 1.58
+Mar 21, 2017
+
+- Improved inspector
